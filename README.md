@@ -1,4 +1,4 @@
-# Springboard Capston Project 1: Synthesis of Denver-Julesburg Basin Production (1999-2019): A Data Science Approach
+# Springboard Capstone Project 1: Synthesis of Denver-Julesburg Basin Production (1999-2019): A Data Science Approach
 
 # Introduction
 
