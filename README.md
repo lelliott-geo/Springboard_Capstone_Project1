@@ -1,7 +1,6 @@
-# Springboard Capston Project 1:
-# Synthesis of Denver-Julesburg Basin Production (1999-2019): A Data Science Approach
+# Springboard Capston Project 1: Synthesis of Denver-Julesburg Basin Production (1999-2019): A Data Science Approach
 
-Introduction
+# Introduction
 
 The Denver-Julesburg (DJ) Basin is a mature oil and gas producing province centered in southeastern Wyoming and northeastern Colorado.   The earliest production occurred in 1901 with the drilling of the McKenzie well which led to the discovery of the Boulder Oil Field in Boulder County Colorado (Wikipedia).  The Wattenberg Field, discovered in 1970, is one of the top 10 largest oil and gas fields in the United States, according to the Energy Information Agency (Sonnenberg, 2019).  It has been revitalized in the last ten years by the success of horizontal production in the Codell and Niobrara Formations.  However, weak commodity prices and investment uncertainties over the past few years coupled with increasing costs of collecting and/or subscribing to geological, geochemical, and engineering datasets and software have put operators under increasingly difficult financial pressures.  
  
