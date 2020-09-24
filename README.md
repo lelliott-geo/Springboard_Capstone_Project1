@@ -1,4 +1,12 @@
-# Synthesis of Denver-Julesburg Basin Production (1999-2019)
- A Data Science Approach
+# Springboard Capston Project 1:
+# Synthesis of Denver-Julesburg Basin Production (1999-2019): A Data Science Approach
 
-All Files Associated with My First Capstone
+Introduction
+
+The Denver-Julesburg (DJ) Basin is a mature oil and gas producing province centered in southeastern Wyoming and northeastern Colorado.   The earliest production occurred in 1901 with the drilling of the McKenzie well which led to the discovery of the Boulder Oil Field in Boulder County Colorado (Wikipedia).  The Wattenberg Field, discovered in 1970, is one of the top 10 largest oil and gas fields in the United States, according to the Energy Information Agency (Sonnenberg, 2019).  It has been revitalized in the last ten years by the success of horizontal production in the Codell and Niobrara Formations.  However, weak commodity prices and investment uncertainties over the past few years coupled with increasing costs of collecting and/or subscribing to geological, geochemical, and engineering datasets and software have put operators under increasingly difficult financial pressures.  
+ 
+A great deal of perspective can be gained by examining the plethora of free publicly available data and by using open source software.  Such questions as the average well lifecycle span, the most productive target formations by location, the optimal lateral length (in the case of horizontal wells) and spacing, and expected ultimate recovery prediction can be ascertained.  In this paper, the author uses a 'top-down' approach based on historic well production behavior to investigate whether it is possible for a given well A and for a given point X in its life cycle, to predict the probability of its permanent abandonment in the next N years. Only publicly available data sources are used, primarily data from the Colorado Oil and Gas Conservation Commission (COGCC).  This approach is in contrast to more traditional techniques using subscription and proprietary data.
+
+Python APIs, geospatial and statistical analysis, and machine learning techniques are used to synthesize, classify, and predict horizontal and vertical well performance in the basin.  The approach employs the building of segmentation use cases, in which geo-located data points are generated that describe and classify the well's behavior.  The segments are created based on economic, geologic, and engineering criteria. These segments can then be used as either ranked categories and/or further used to synthesize, classify, and predict horizontal well performance in the basin. 
+
+For those prospectors working the area with proprietary data available to them, insight gathered from this type of analysis can be used as a complement to traditional methods, providing an independent, higher level look at the basin to optimize development strategy and recovery enhancement.
